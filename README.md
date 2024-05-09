@@ -70,6 +70,7 @@ $$G(s) = \frac{10s^4 + 8s^3 + 6s^2 + 4s + 2}{s^5 + 3s^4 + 5s^3 + 7s^2 + 9s + 1}$
 
 <br>
 
+
 ### Group Members:
 - Alojado, Stephen Gabriel S.         
 - Cardenas, Sofia Bianca J.     
