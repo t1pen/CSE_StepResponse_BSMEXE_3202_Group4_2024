@@ -3,6 +3,7 @@
 ### 3. Second Order Critically Damped System
 Represents a critically damped system.
 $$G(s) = \frac{1}{(s+1)^2}$$
+![image](
 
 ### 5. Resonant System 
 Modeling a resonant system with a sharp peak.
