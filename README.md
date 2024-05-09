@@ -46,7 +46,7 @@ $$G(s) = \frac{6s^4 + 5s^3 + 4s^2 + 3s + 2}{s^5 + 2s^4 + 3s^3 + 4s^2 + 5s + 1}$$
 <br>
 
 ### 8. Nonlinear System Approximation
-- Modeling a system with time delay.
+- Modeling a nonlinear system with a polynomial approximation.
 $$G(s) = \frac{6s^4 + 5s^3 + 4s^2 + 3s + 2}{s^5 + 2s^4 + 3s^3 + 4s^2 + 5s + 1}$$
 <br>
 
