@@ -10,7 +10,7 @@ G = tf(G_num, G_den)
 
 % Step Response
 
-step(G,)
+step(G,0:0.1:20)
 
 
 
