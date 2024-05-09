@@ -67,3 +67,12 @@ $$G(s) = \frac{10s^4 + 8s^3 + 6s^2 + 4s + 2}{s^5 + 3s^4 + 5s^3 + 7s^2 + 9s + 1}$
 <br>
 
 ![image](https://github.com/t1pen/CSE_StepResponse_BSMEXE_3202_Group4_2024/blob/main/Screenshots/Nonlinear_System_Approximation_8.png?raw=true)
+
+<br>
+
+### Group Members:
+- Alojado, Stephen Gabriel S.         
+- Cardenas, Sofia Bianca J.     
+- Catapang, Jamil Darrius S.    
+- Umali, Ariane Mae D.          
+
