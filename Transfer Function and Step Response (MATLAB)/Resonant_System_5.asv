@@ -10,7 +10,8 @@ G = tf(G_num, G_den)
 
 % Step Response
 
-step(G,0:0.1:20)
+h = stepplot(G,0:0.1:20)
+h.Response.Name = 'Electric'
 
 
 
