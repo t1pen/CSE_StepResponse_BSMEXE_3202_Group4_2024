@@ -50,4 +50,4 @@ $$G(s) = \frac{6s^4 + 5s^3 + 4s^2 + 3s + 2}{s^5 + 2s^4 + 3s^3 + 4s^2 + 5s + 1}$$
 $$G(s) = \frac{10s^4 + 8s^3 + 6s^2 + 4s + 2}{s^5 + 3s^4 + 5s^3 + 7s^2 + 9s + 1}$$
 <br>
 
-![image](https://github.com/t1pen/CSE_StepResponse_BSMEXE_3202_Group4_2024/blob/main/Screenshots/Plant_with_Time_Delay_7.png?raw=true)
+![image](https://github.com/t1pen/CSE_StepResponse_BSMEXE_3202_Group4_2024/blob/main/Screenshots/Nonlinear_System_Approximation_8.png?raw=true)
