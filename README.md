@@ -2,6 +2,13 @@
 
 ### 1. Second Order Underdamped System
   - Represents an underdamped system.
+$$G(s) = \frac{1}{s^2+2s+1}$$
+<br>
+
+![image](https://github.com/t1pen/CSE_StepResponse_BSMEXE_3202_Group4_2024/blob/main/Screenshots/Second_Order_Underdamped_System_1.png)
+
+### 2. Second Order Underdamped System
+  - Represents an underdamped system.
 $$G(s) = \frac{1}{(s+1)^2}$$
 <br>
 
