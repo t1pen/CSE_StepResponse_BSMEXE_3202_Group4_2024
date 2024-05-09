@@ -43,3 +43,11 @@ $$G(s) = \frac{6s^4 + 5s^3 + 4s^2 + 3s + 2}{s^5 + 2s^4 + 3s^3 + 4s^2 + 5s + 1}$$
 
 ![image](https://github.com/t1pen/CSE_StepResponse_BSMEXE_3202_Group4_2024/blob/main/Screenshots/Plant_with_Time_Delay_7.png?raw=true)
 
+<br>
+
+### 8. Nonlinear System Approximation
+- Modeling a system with time delay.
+$$G(s) = \frac{6s^4 + 5s^3 + 4s^2 + 3s + 2}{s^5 + 2s^4 + 3s^3 + 4s^2 + 5s + 1}$$
+<br>
+
+![image](https://github.com/t1pen/CSE_StepResponse_BSMEXE_3202_Group4_2024/blob/main/Screenshots/Plant_with_Time_Delay_7.png?raw=true)
